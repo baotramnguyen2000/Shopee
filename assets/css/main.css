@@ -746,7 +746,7 @@
   -ms-user-select: none;
   user-select: none;
   -webkit-tap-highlight-color: transparent;
-  padding: 0 6px;
+  padding: 10px;
 }
 
 .shopee-brands__item:nth-of-type(3n + 1) .shopee-brands__link {

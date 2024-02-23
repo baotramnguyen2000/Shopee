@@ -1194,7 +1194,7 @@ i.shopee-search-item-result__like--icon-fill {
 /* FOOTER */
 
 .footer {
-  padding-top: 16px;
+  padding: 16px 32px;
   border-top: 4px solid var(--primary-color);
   background-color: var(--white-color);
 }

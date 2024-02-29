@@ -938,6 +938,8 @@ i.shopee-search-item-result__like--icon-fill {
   font-weight: 600;
   font-size: 1.3rem;
   line-height: 1.3rem;
+  /* position: relative;
+  top: -1px; */
 }
 
 .shopee-search-item-result__sale-off--label {
@@ -945,6 +947,8 @@ i.shopee-search-item-result__like--icon-fill {
   font-weight: 600;
   font-size: 1.3rem;
   line-height: 1.3rem;
+  /* position: relative;
+  top: -10px; */
 }
 
 .home-product__pagination {

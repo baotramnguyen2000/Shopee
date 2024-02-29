@@ -550,12 +550,13 @@
 }
 
 .category-heading {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   font-weight: 400;
   color: vaR(--text-color);
   text-transform: uppercase;
   padding: 16px 20px 0;
   margin-top: 0;
+  display: inline-block;
 }
 
 .category-heading__icon {
@@ -591,7 +592,7 @@
   font-size: 1.4rem;
   text-decoration: none;
   color: var(--text-color);
-  padding: 8px 20px;
+  padding: 4px 20px;
   display: block;
   transition: right linear 0.1s;
   -webkit-tap-highlight-color: transparent;

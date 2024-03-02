@@ -569,7 +569,7 @@
 .category__list {
   list-style-type: none;
   padding: 0 0 8px 0;
-  margin-left: 9px;
+  /* margin-left: 9px; */
 }
 
 .category__item--active .category__item--link {
@@ -596,6 +596,7 @@
   display: block;
   transition: right linear 0.1s;
   -webkit-tap-highlight-color: transparent;
+  text-transform: uppercase;
 }
 
 .category__item--link:hover {
@@ -615,8 +616,8 @@
   content: "";
   position: absolute;
   top: 0;
-  left: 20px;
-  right: 20px;
+  left: 16px;
+  right: 16px;
   border-top: 1px solid #e1e1e1;
 }
 
